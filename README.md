@@ -2,13 +2,6 @@
 
 <h1 align="center">Hi! 👋, I'm Lucas Alves.</h1>
 
-<br>
-
-<p align="left"><strong>Computer Technician</strong> and studying the <strong>3nd</strong> term of <strong>Computer Engineering</strong> at <strong>IFPB - Campus Campina Grande</strong>. Started programming in 2017 and currently studying to become a <strong>Fullstack developer</strong>. Be free to contact me! 🤝</p>
-
-<br>
-
-
 <p align="left">
 
   <a href="https://www.linkedin.com/in/lucasfdelis/" target="_blank" alt="Linkedin">
@@ -23,12 +16,12 @@
 <table align = "center" border = '0'>
   <tr>
     <td>
-      <a href="https://github.com/lucasfdelis">
+      <a href="https://github.com/lucas-panorama">
   <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfdelis&theme=dracula&hide_langs_below=1&layout=compact" />
 </a>
     </td>
     <td>
-      <a href="https://github.com/lucasfdelis">
+      <a href="https://github.com/lucas-panorama">
  <img width="454px" align="center" src="https://github-readme-stats.vercel.app/api?username=lucasfdelis&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
     </td>
